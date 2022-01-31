@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Monda&display=swap");
+
+/* https://github.com/nstrayer/cv/blob/master/dd_cv.css */
+
+/* Texto principal es Monda*/
+body {
+  font-family: "Monda", normal;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #444;
+}
+
+/* Encabezados */
+h1,
+h2,
+h3 {
+  font-family: "Monda", normal;
+  color: #000;
+}
+
+strong {
+  font-weight: 700;
+}
+
+/* Avoid the breaking within a section */
+.blocks {
+  break-inside: avoid;
+}
+
+* {
+  /* Override default right margin for sidebar*/
+  --pagedjs-margin-right: 0.2in;
+  --pagedjs-margin-left: 0.2in;
+}
+
+/* Personalización del tamaño de algunas variables */
+:root {
+  --sidebar-width: 12rem; /* ancho de barra lateral */
+  --sidebar-background-color: #52BE80; /* color barra lateral */
+  --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
+  --decorator-outer-dim: 10px; /* posicion delineada de circulos */
+  --decorator-border: 2px solid #D0D3D4; /* color linea de tiempo */
+}
+
+.details .place {
+  margin-top: 0.25rem;
+}
+
+.main-block:not(.concise) .details div {
+  padding-top: 0.005rem;
+}
+
