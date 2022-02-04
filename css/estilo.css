@@ -33,7 +33,7 @@ strong {
   --pagedjs-margin-left: 0.2in;
 }
 
-/* Personalización del tamaño de algunas variables */
+/* Personalizacion del tamaño de algunas variables */
 :root {
   --sidebar-width: 12rem; /* ancho de barra lateral */
   --sidebar-background-color: #52BE80; /* color barra lateral */
