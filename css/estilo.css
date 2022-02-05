@@ -36,7 +36,7 @@ strong {
 /* Personalizacion del tamaño de algunas variables */
 :root {
   --sidebar-width: 12rem; /* ancho de barra lateral */
-  --sidebar-background-color: #52BE80; /* color barra lateral */
+  --sidebar-background-color: #E5E7E9; /* color barra lateral */
   --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
   --decorator-outer-dim: 10px; /* posicion delineada de circulos */
   --decorator-border: 2px solid #D0D3D4; /* color linea de tiempo */
