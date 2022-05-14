@@ -32,18 +32,20 @@ Información de contacto {#contact}
 
 Capacidades {#skills}
 --------------------------------------------------------------------------------
-- Análisis estadístico y diseño de experimentos.
-- Modelado en _aprendizaje automático_.
-- Manipulación, limpieza y visualizaciones de datos mediante paquetería _tidyverse_.
+- Preparación (limpieza y exploración), análisis estadístico/exploratorio y visualización de datos con _R Markdown_.
 - Conocimiento básico en _SQL_ (BD relacionales).
+- Diseño de experimentos.
+- Control de versiones con Git y Github con _RStudio_.
+- Modelado en _aprendizaje automático_.
 - Autodidacta.
 - Trabajo en equipo.
 - Responsabilidad y compromiso.
 - Gestión del tiempo.
 
+
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-Este resumen fue elaborado con el paquete de R [**pagedown**](https://github.com/rstudio/pagedown).
+Elaborado con [**pagedown**](https://github.com/rstudio/pagedown).
 Actualizado en `r Sys.Date()`.
 
 
@@ -51,10 +53,10 @@ Main
 ================================================================================
 Gerardo Avila Martínez {#title}
 --------------------------------------------------------------------------------
-### Actualmente Analista de datos en formación
+#### Actualmente Analista de datos en formación
 
+- Genero visualizaciones, bases de datos, uso webscraping para obtener información de interés y presentaciones mediante _RStudio_.
 - Tesista en Universidad de Guanajuato.
-- Transformo datos en visualizaciones mediante software libre
 
 
 Educación {data-icon=graduation-cap data-concise=true}
@@ -109,9 +111,8 @@ Celaya, Guanajuato
 
 ::: concise
 
-- Revisión de normas vigentes aplicables.
-- Apoyo en cursos de capacitación en materia de seguridad.
-- Revisión de cumplimiento en normativas de seguridad e higiene en empresa.
-- Entrega de documentación actualizada a empresas.
+- Revisión, cumplimiento y actualización de normatividad vigente a clientes.
+- Apoyo en cursos de capacitación en materia de seguridad e higiene.
+- Tramitación y entrega de documentos a clientes y entidades gubernamentales.
 
 :::
